@@ -1,1 +1,1 @@
-# Stripe-Payment-Method-
+# Stripe-Payment-Method
